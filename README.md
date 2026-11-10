@@ -98,4 +98,4 @@ docker compose up
 ## Autor
 
 Pedro H. Marcelino
-[LinkedIn]([https://linkedin.com/in/SEU-PERFIL](https://www.linkedin.com/in/pedro-marcelino-16a398175/)) · [GitHub](https://github.com/pedroMarcelino)
+[LinkedIn](https://www.linkedin.com/in/pedro-marcelino-16a398175/)) · [GitHub](https://github.com/pedroMarcelino)
