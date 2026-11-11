@@ -97,5 +97,5 @@ docker compose up
 
 ## Autor
 
-**Seu Nome**
-[LinkedIn](https://linkedin.com/in/SEU-PERFIL) · [GitHub](https://github.com/SEU-USUARIO)
+Pedro H. Marcelino
+[LinkedIn](https://www.linkedin.com/in/pedro-marcelino-16a398175/) · [GitHub](https://github.com/pedroMarcelino)
