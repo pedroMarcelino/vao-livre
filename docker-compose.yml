@@ -1,0 +1,14 @@
+services:
+  #mapa da regiao sudeste.
+  valhalla:
+    image: ghcr.io/gis-ops/docker-valhalla/valhalla:latest
+    container_name: valhalla
+    # expõe o valhalla para localhost:8002
+    ports:
+      - "8002:8002"
+    volumes:
+      - ./infra/valhalla/custom_files:/custom_files
+    environment:
+      - server_threads=2
+      - use_tiles_ignore_pbf=True
+      - force_rebuild=False

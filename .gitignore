@@ -1,0 +1,5 @@
+*.pbf
+infra/valhalla/valhalla_tiles/
+infra/valhalla/*.tar
+infra/valhalla/custom_files/*
+!infra/valhalla/custom_files/.gitkeep
